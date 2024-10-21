@@ -86,24 +86,24 @@ Whether you are a sports analyst, a fan, or a data enthusiast, the dashboard is 
 
 ### Key Features
 
-Medal Tally and Analysis: Track the overall medal standings for each country in real-time. Dive deeper into specific countries or sports to understand their performance and historical trends.
+- **Medal Tally and Analysis**: Track the overall medal standings for each country in real-time. Dive deeper into specific countries or sports to understand their performance and historical trends.
 
-Athlete and Event Insights: Get detailed profiles of top athletes, including their historical performances, current form, and event schedules. Analyze which events and athletes are drawing the most attention.
+- **Athlete and Event Insights**: Get detailed profiles of top athletes, including their historical performances, current form, and event schedules. Analyze which events and athletes are drawing the most attention.
 
-Historical Comparisons and Trend Analysis: Compare the 2024 Olympics with previous events to identify trends, performance improvements, or declines. Visualize data from past Olympic Games to see how countries and athletes have evolved.
+- **Historical Comparisons and Trend Analysis**: Compare the 2024 Olympics with previous events to identify trends, performance improvements, or declines. Visualize data from past Olympic Games to see how countries and athletes have evolved.
 
-Interactive Maps and Charts: Explore geographical data with interactive maps, showing where athletes are coming from, which countries dominate in particular sports, and much more.
+- **Interactive Maps and Charts**: Explore geographical data with interactive maps, showing where athletes are coming from, which countries dominate in particular sports, and much more.
 
-Custom Filters and Drill-Downs: Utilize Power BI’s powerful filtering capabilities to drill down into specific data points, such as country performance in a specific sport or the number of medals won by a specific athlete over time.
+- **Custom Filters and Drill-Downs**: Utilize Power BI’s powerful filtering capabilities to drill down into specific data points, such as country performance in a specific sport or the number of medals won by a specific athlete over time.
 
 ![image](https://github.com/user-attachments/assets/bebb893f-a8ef-4f5d-bbc5-19992f6c54aa)
 
 ### Who will benefit from this dashboard?
 
-Sports Enthusiasts and Fans: Stay updated with the latest statistics and performance data of your favorite athletes and countries in the Paris 2024 Olympics.
+- **Sports Enthusiasts and Fans**: Stay updated with the latest statistics and performance data of your favorite athletes and countries in the Paris 2024 Olympics.
 
-Data Analysts and Sports Analysts: Leverage this dashboard to create impactful reports and presentations. Understand trends, analyze performances, and inform strategic decisions based on data.
+- **Data Analysts and Sports Analysts**: Leverage this dashboard to create impactful reports and presentations. Understand trends, analyze performances, and inform strategic decisions based on data.
 
-Content Creators and Journalists: Use the visualizations and data insights to create compelling content, articles, or reports around the Olympics and sports analytics.
+- **Content Creators and Journalists**: Use the visualizations and data insights to create compelling content, articles, or reports around the Olympics and sports analytics.
 
-Power BI Learners and Enthusiasts: This project serves as a practical, hands-on example for those looking to enhance their skills in data visualization, analytics, and the use of Power BI for sports data.
+- **Power BI Learners and Enthusiasts**: This project serves as a practical, hands-on example for those looking to enhance their skills in data visualization, analytics, and the use of Power BI for sports data.
