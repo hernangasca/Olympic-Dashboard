@@ -33,13 +33,13 @@ Whether you are a sports analyst, a fan, or a data enthusiast, the dashboard is 
     import pandas as pd
     
     # Set Kaggle API credentials directory
-    os.environ['KAGGLE_CONFIG_DIR'] = 'C:/Users/faisa/.kaggle'  # Update this path to your Kaggle configuration directory
+    os.environ['KAGGLE_CONFIG_DIR'] = 'C:/Users/Hernan Camilo/.kaggle'  # Update this path to your Kaggle configuration directory
     
     # Specify the dataset identifier
     dataset = 'piterfm/paris-2024-olympic-summer-games'
     
     # Set the download path
-    download_path = 'C:/Users/faisa/Downloads/Power BI_Imp Summary/Olympic/Source'  # Change this to your preferred download directory
+    download_path = 'C:/Users/Hernan Camilo/Desktop/DASHBOARDS/Already Done/Olympics Dashboard/Source'  # Change this to your preferred download directory
     
     # Remove existing files in the folder to prevent duplicates or outdated files
     for file in os.listdir(download_path):
